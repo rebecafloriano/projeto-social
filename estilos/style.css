@@ -33,7 +33,7 @@ nav a img {
     
 
     width: 45px;
-    margin: 5px;
+    margin: 3px;
     border-radius: 50%;
     display: block;
     transition: all 0.5s;
@@ -52,7 +52,6 @@ nav a img:hover {
     left:50%;
     transform: translate(-50%, -50%);
     background: url('../imagens/frame-iphone.png') no-repeat;
-    padding: 1px;
     height:627px;
     width: 311px;
 }
