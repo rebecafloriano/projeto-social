@@ -26,17 +26,18 @@ nav {
 
 nav a img {
     
-    padding: 10px;
+
     width: 50px;
-    height: 50px;
+    margin: 10px;
     border-radius: 50%;
     display: block;
     transition: all 0.5s;
     cursor: pointer;
+    box-sizing: border-box;
 }
 
 nav a img:hover {
-    border: 3px solid rgba(211, 211, 211, 0.489);
+    border: 2px solid rgba(255, 255, 255, 0.607);
     transform: scale(0.90);
 }
 
